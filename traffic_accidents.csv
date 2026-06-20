@@ -1,0 +1,11 @@
+Road_Condition,Weather,Time_of_Day,Accidents
+Dry,Clear,Morning,120
+Wet,Rainy,Morning,180
+Dry,Clear,Afternoon,150
+Wet,Rainy,Afternoon,210
+Dry,Clear,Evening,170
+Wet,Rainy,Evening,250
+Dry,Foggy,Night,140
+Wet,Foggy,Night,220
+Dry,Clear,Night,160
+Wet,Rainy,Night,280
